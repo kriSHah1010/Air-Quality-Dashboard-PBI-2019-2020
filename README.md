@@ -7,7 +7,7 @@
 ## 📊 Overview
 The **Air Quality Index (AQI) Dashboard** provides a comprehensive view of air quality across multiple cities. It enables users to monitor pollution levels, analyze trends, and identify areas requiring attention.
 
----
+--- 
  
 ## 🖼️ Dashboard Preview
 
