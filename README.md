@@ -18,7 +18,7 @@ The **Air Quality Index (AQI) Dashboard** provides a comprehensive view of air q
 
 ## 🎯 Key Features
 - 📈 Track air quality trends over time  
-- 🏙️ Compare pollution levels across cities  
+- 🏙️ Compare pollution levels across cities    
 - 🔍 Interactive filtering using slicers  
 - 📊 Clear visual representation of key metrics  
 
