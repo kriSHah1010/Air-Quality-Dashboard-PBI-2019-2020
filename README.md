@@ -13,6 +13,7 @@ The **Air Quality Index (AQI) Dashboard** provides a comprehensive view of air q
  
     
 ![Dashboard Screenshot](images/dashboard.png)   
+
    
 ---
 
